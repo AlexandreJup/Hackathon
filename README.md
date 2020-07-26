@@ -4,4 +4,4 @@
 During a course of our engineering school, we had the opportunity to work on a train delay prediction problem. 
 The dataset is from the NJ railways.
 
-I might share the notebook with our prediction models later. 
+Here is the link to the Kaggle competition : https://www.kaggle.com/c/2ia-m2-advanced-ml-2019-hackathon/overview 
